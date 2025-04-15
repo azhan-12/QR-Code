@@ -55,12 +55,6 @@ body{
     font-weight: 500;
 }
 
-.container button:hover{
-    background: #2c2e55;   
-    transition: 1s ease-in;
-    transition: 1s ease-out;
-}
-
 #imgBox{
     width: 200px;
     border-radius: 5px;
